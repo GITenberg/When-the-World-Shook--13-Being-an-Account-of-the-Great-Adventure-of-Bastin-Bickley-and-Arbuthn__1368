@@ -1,5 +1,8 @@
 _repo: When-the-World-Shook--13-Being-an-Account-of-the-Great-Adventure-of-Bastin-Bickley-and-Arbuthn__1368
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/365
     wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1368#When-the-World-Shook--13-Being-an-Account-of-the-Great-Adventure-of-Bastin-Bickley-and-Arbuthn_
 gutenberg_issued: '1998-06-01'
 gutenberg_type: Text
 identifiers:
